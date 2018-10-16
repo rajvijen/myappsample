@@ -1,5 +1,5 @@
 # My Test App
 
 
-<font color="purple">This repo is only for learning Git and GitHub font.</workflow>
+<font color="purple">This repo is only for learning Git and GitHub workflow.</font>
 
